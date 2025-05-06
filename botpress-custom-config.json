@@ -16,10 +16,7 @@
     "fontFamily": "inter",
     "radius": 1,
     "allowFileUpload": true,
-    "storageLocation": "localStorage",
-    "ui": {
-      "showRestartButton": true
-    }
+    "storageLocation": "localStorage"
   },
   "clientId": "d28c4ce6-94fc-4d0e-a12d-2a1c65fdb454"
 }
