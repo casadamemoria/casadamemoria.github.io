@@ -1,0 +1,25 @@
+{
+    "botId": "9a3bf5a4-2911-4b39-9844-4ef9c14eb53c",
+    "configuration": {
+      "composerPlaceholder": "Digite sua pergunta ou utilize o microfone...",
+      "botName": "CASA da MEMÓRIA",
+      "botAvatar": "https://files.bpcontent.cloud/2025/05/06/12/20250506125031-GVZJ43BL.png",
+      "botDescription": "Quer encontrar algo? Pergunte!",
+      "website": {},
+      "email": {},
+      "phone": {},
+      "termsOfService": {},
+      "privacyPolicy": {},
+      "color": "#3B82F6",
+      "variant": "solid",
+      "themeMode": "light",
+      "fontFamily": "inter",
+      "radius": 1,
+      "allowFileUpload": true,
+      "storageLocation": "localStorage"
+    },
+    "ui": {
+      "showRestartButton": true
+    },
+    "clientId": "d28c4ce6-94fc-4d0e-a12d-2a1c65fdb454"
+  }
